@@ -1,0 +1,19 @@
+{
+  "name": "CheckBalance",
+  "slots": [
+    {
+      "name": "AccountType",
+      "slotTypeName": "AccountType",
+      "valueElicitationSetting": {
+        "slotConstraint": "Required"
+      }
+    }
+  ],
+  "sampleUtterances": [
+    { "utterance": "What is my balance?" },
+    { "utterance": "Check my account balance" }
+  ],
+  "fulfillmentCodeHook": {
+    "enabled": true
+  }
+}
