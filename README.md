@@ -1,11 +1,8 @@
-# amazon-lex-banking-chatbot
+## Repository Structure
 
-
+```text
 amazon-lex-banking-chatbot/
-├── README.md
-
 ├── architecture/
-
 │   └── architecture-diagram.png
 ├── lambda/
 │   ├── handler.py
@@ -22,4 +19,9 @@ amazon-lex-banking-chatbot/
 ├── events/
 │   ├── check_balance_event.json
 │   └── transfer_money_event.json
-└── .gitignore
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+├── .gitignore
+└── README.md
