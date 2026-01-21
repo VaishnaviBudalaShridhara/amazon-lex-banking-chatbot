@@ -10,6 +10,8 @@ The chatbot can understand natural language queries, classify intents and trigge
 - Stateless, serverless design
 - Error handling and fallback responses for unknown intents
 
+![Serverless Banking Chatbot Architecture](https://github.com/VaishnaviBudalaShridhara/amazon-lex-banking-chatbot/blob/main/Chatbot_diagram.png)
+
 ## Features
 - Intent classification (Check Balance, Transfer Money, Help)
 - Slot filling for required inputs
