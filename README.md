@@ -3,7 +3,9 @@
 
 amazon-lex-banking-chatbot/
 ├── README.md
+
 ├── architecture/
+
 │   └── architecture-diagram.png
 ├── lambda/
 │   ├── handler.py
