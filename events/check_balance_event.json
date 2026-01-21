@@ -1,0 +1,14 @@
+{
+  "sessionState": {
+    "intent": {
+      "name": "CheckBalance",
+      "slots": {
+        "AccountType": {
+          "value": {
+            "interpretedValue": "savings"
+          }
+        }
+      }
+    }
+  }
+}
